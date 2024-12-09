@@ -19,14 +19,14 @@ Berikut adalah koleksi gambar yang diunggah:
 
 Berikut adalah koleksi gambar yang diunggah:
 
-1. <img src="images/WhatsApp%20Image%202024-12-10%20at%2001.34.57.jpeg" alt="WhatsApp Image 2024-12-10 at 01.34.57" width="400" >
-2. <img src="images/WhatsApp%20Image%202024-12-10%20at%2001.34.57%20(1).jpeg" alt="WhatsApp Image 2024-12-10 at 01.34.57 (1)" width="400">
-3. <img src="images/WhatsApp%20Image%202024-12-10%20at%2001.34.57%20(2).jpeg" alt="WhatsApp Image 2024-12-10 at 01.34.57 (2)" width="400">
-4. <img src="images/WhatsApp%20Image%202024-12-10%20at%2001.34.58.jpeg" alt="WhatsApp Image 2024-12-10 at 01.34.58" width="400">
-5. <img src="images/WhatsApp%20Image%202024-12-10%20at%2001.34.58%20(1).jpeg" alt="WhatsApp Image 2024-12-10 at 01.34.58 (1)" width="400">
-6. <img src="images/WhatsApp%20Image%202024-12-10%20at%2001.34.58%20(2).jpeg" alt="WhatsApp Image 2024-12-10 at 01.34.58 (2)" width="400">
-7. <img src="images/WhatsApp%20Image%202024-12-10%20at%2001.34.59.jpeg" alt="WhatsApp Image 2024-12-10 at 01.34.59" width="400">
-8. <img src="images/WhatsApp%20Image%202024-12-10%20at%2001.34.59%20(1).jpeg" alt="WhatsApp Image 2024-12-10 at 01.34.59 (1)" width="400">
+ <img src="images/WhatsApp%20Image%202024-12-10%20at%2001.34.57.jpeg" alt="WhatsApp Image 2024-12-10 at 01.34.57" width="400" >
+ <img src="images/WhatsApp%20Image%202024-12-10%20at%2001.34.57%20(1).jpeg" alt="WhatsApp Image 2024-12-10 at 01.34.57 (1)" width="400">
+ <img src="images/WhatsApp%20Image%202024-12-10%20at%2001.34.57%20(2).jpeg" alt="WhatsApp Image 2024-12-10 at 01.34.57 (2)" width="400">
+ <img src="images/WhatsApp%20Image%202024-12-10%20at%2001.34.58.jpeg" alt="WhatsApp Image 2024-12-10 at 01.34.58" width="400">
+ <img src="images/WhatsApp%20Image%202024-12-10%20at%2001.34.58%20(1).jpeg" alt="WhatsApp Image 2024-12-10 at 01.34.58 (1)" width="400">
+ <img src="images/WhatsApp%20Image%202024-12-10%20at%2001.34.58%20(2).jpeg" alt="WhatsApp Image 2024-12-10 at 01.34.58 (2)" width="400">
+ <img src="images/WhatsApp%20Image%202024-12-10%20at%2001.34.59.jpeg" alt="WhatsApp Image 2024-12-10 at 01.34.59" width="400">
+ <img src="images/WhatsApp%20Image%202024-12-10%20at%2001.34.59%20(1).jpeg" alt="WhatsApp Image 2024-12-10 at 01.34.59 (1)" width="400">
 9. <img src="images/WhatsApp%20Image%202024-12-10%20at%2001.34.59%20(2).jpeg" alt="WhatsApp Image 2024-12-10 at 01.34.59 (2)" width="400">
 
 ---
