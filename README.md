@@ -11,6 +11,20 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+# 📸 which I'm working on
+
+Berikut adalah koleksi gambar yang diunggah:
+
+1. ![WhatsApp Image 2024-12-10 at 01.34.57](images/WhatsApp%20Image%202024-12-10%20at%2001.34.57.jpeg)
+2. ![WhatsApp Image 2024-12-10 at 01.34.57 (1)](images/WhatsApp%20Image%202024-12-10%20at%2001.34.57%20(1).jpeg)
+3. ![WhatsApp Image 2024-12-10 at 01.34.57 (2)](images/WhatsApp%20Image%202024-12-10%20at%2001.34.57%20(2).jpeg)
+4. ![WhatsApp Image 2024-12-10 at 01.34.58](images/WhatsApp%20Image%202024-12-10%20at%2001.34.58.jpeg)
+5. ![WhatsApp Image 2024-12-10 at 01.34.58 (1)](images/WhatsApp%20Image%202024-12-10%20at%2001.34.58%20(1).jpeg)
+6. ![WhatsApp Image 2024-12-10 at 01.34.58 (2)](images/WhatsApp%20Image%202024-12-10%20at%2001.34.58%20(2).jpeg)
+7. ![WhatsApp Image 2024-12-10 at 01.34.59](images/WhatsApp%20Image%202024-12-10%20at%2001.34.59.jpeg)
+8. ![WhatsApp Image 2024-12-10 at 01.34.59 (1)](images/WhatsApp%20Image%202024-12-10%20at%2001.34.59%20(1).jpeg)
+9. ![WhatsApp Image 2024-12-10 at 01.34.59 (2)](images/WhatsApp%20Image%202024-12-10%20at%2001.34.59%20(2).jpeg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=iwanazhari&icon=0&color=0)](https://visitcount.itsvg.in)
 
